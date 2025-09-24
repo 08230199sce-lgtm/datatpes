@@ -1,1 +1,1 @@
-# datatpes
+# datatypes
